@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm run server`
-Runs the api of Json-server and then port might be check on 3000
+Run the api of Json-server, and then the port needs to be checked at 3000
 
 ### `npm start`
 
